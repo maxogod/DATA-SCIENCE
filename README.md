@@ -25,5 +25,3 @@
 * NLP - Modelo de machine learning: **Red Neuronal** [⊛](https://github.com/kikiymini/7506R-1C2024-GRUPO02/blob/main/TP2/7506R_TP2_GRUPO02_ENTREGA_N4.ipynb)
 
 * NLP - Modelo de machine learning: **Ensambles** [⊛](https://github.com/kikiymini/7506R-1C2024-GRUPO02/blob/main/TP2/7506R_TP2_GRUPO02_ENTREGA_N5.ipynb)
-
-Ingresa a carpeta compartida de google drive [⊛](https://drive.google.com/drive/u/0/folders/1m4c5cizIzkfp0Puo_tMrgzsoEWGIYzJ7)
